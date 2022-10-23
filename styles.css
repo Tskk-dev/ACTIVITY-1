@@ -2,7 +2,7 @@
     background-color: rgba(81, 88, 104, 0.5);
     color: #8fbcbb;
     font-family: monospace;
-    font-size: 2.5vw;
+    font-size: 3.5vw;
     font-weight: bold;
     padding: 3vw;
     border-radius: 5vw;
@@ -12,6 +12,7 @@
     text-shadow: #6f9493 0.2vw 0.2vw 0.2vw;
     margin-left: 12vw;
     margin-right: 12vw;
+    
 
 
 }
@@ -29,6 +30,7 @@
     margin-left:12vw;
     margin-right: 12vw;
     border-spacing: inherit;
+    color: #9cc9cc;
 
     
 
