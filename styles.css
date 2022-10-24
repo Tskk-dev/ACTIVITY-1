@@ -12,8 +12,6 @@
     text-shadow: #6f9493 0.2vw 0.2vw 0.2vw;
     margin-left: 12vw;
     margin-right: 12vw;
-    
-
 
 }
 
@@ -27,19 +25,50 @@
     padding: 4vw;
     scrollbar-shadow-color: #6d7777;
     margin-top: 0-vw;
-    margin-left:12vw;
+    margin-left: 12vw;
     margin-right: 12vw;
     border-spacing: inherit;
     color: #9cc9cc;
+    transition: background-color 0.5s ease-in-out;
+    border:#6d7777;
+    border-style: dashed;
 
-    
+
 
 }
 
-#background
-{
+#background {
     background-image: url('https://wallpaperaccess.com/full/937696.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(10px);
+}
+
+#copyright {
+    background-color: rgba(3, 250, 250, 0.103);
+    border-radius: 1vw;
+    padding: 1vw;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1vw;
+    color: aquamarine;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    padding-bottom: 1vw;
+
+}
+
+#line {
+    border: 0.2vw;
+    border-style: solid;
+    border-radius: 2vw  ;
+    border-color: #000000;
+    margin-left: 16vw;
+    margin-right: 15vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+
+#p1:hover {
+    background-color: rgba(0, 0, 0,.6);
 }
